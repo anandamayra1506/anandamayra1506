@@ -19,8 +19,8 @@ Extensão Markdown
 # 👋 Olá!
 
 ### 
-
-<img align="right" height="150" src="../anandamayra1506/anandamayra.jpg"  />
+<div>
+<img src="../anandamayra1506/anandamayra.jpg" alt="Imagem de Ananda" align="right" height="150"/>
 
 
 ### Me chamo Ananda Máyra,
@@ -28,7 +28,7 @@ Extensão Markdown
 #### Formada em Bacharel em Administração e Professor Ed. Infantil;
 
 #### Estudante de Sistemas de Informação no IFMG-SJE.
-
+</div>
 
 ## 🌱 Atualmente estou aprendendo 
 
@@ -42,8 +42,9 @@ Extensão Markdown
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandamayra1506&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### 
+###
 
+<div>
 <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## Habilidades
@@ -57,6 +58,7 @@ Extensão Markdown
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 </div>
 
 ## Redes Sociais  
