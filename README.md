@@ -32,7 +32,7 @@ Extensão Markdown
 
 ## 🌱 Atualmente estou aprendendo 
 
-##### Front-end+Vue.js na Vai na Web - Full Stack na +praTi - Full Stack Developer na DIO - XP Inc. 
+#### Front-end+Vue.js na Vai na Web - Full Stack na +praTi - Full Stack Developer na DIO - XP Inc. 
 <hr>
 
 ## Status do GitHub 📈 
@@ -44,7 +44,7 @@ Extensão Markdown
 
 ### 
 
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## Habilidades
 
