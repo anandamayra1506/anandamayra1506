@@ -23,7 +23,7 @@ Extensão Markdown
 
 ### Me chamo Ananda Máyra,
 
-#### Formada em Bacharel em Administração e Professor Ed. Infantil;
+#### Formada em Bacharelado em Administração e Professor Ed. Infantil;
 
 #### Estudante de Sistemas de Informação no IFMG-SJE.
 </div>
