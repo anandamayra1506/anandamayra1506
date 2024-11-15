@@ -42,10 +42,13 @@ Extensão Markdown
   <img src="https://github-readme-stats.vercel.app/api?username=anandamayra1506&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandamayra1506&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-  <picture>
-    <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/anandamayra1506/anandamayra1506/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anandamayra1506/anandamayra1506/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandamayra1506/anandamayra1506/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandamayra1506/anandamayra1506/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anandamayra1506/anandamayra1506/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ###
@@ -53,7 +56,7 @@ Extensão Markdown
 ## Habilidades
 
 <div>
- <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"/>
+ <img align="right" height="95" src="https://i.imgflip.com/65efzo.gif"/>
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
@@ -65,7 +68,7 @@ Extensão Markdown
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharpe/csharpe-original.svg" height="40" alt="csharpe logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
 </div>
 </div>
 
